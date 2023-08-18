@@ -1,1 +1,1 @@
-# Revenue_Insights_Hospitality_Domain
+# Revenue Insights | Hospitality Domain
