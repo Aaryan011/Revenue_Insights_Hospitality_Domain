@@ -18,3 +18,23 @@ You can watch the presentation video here
 - [Insights](#insights)
 
 ## Introduction
+
+AtliQ Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years.
+
+## Company Background
+
+AtliQ Grands own multiple five-star hotels across the following cities.
+- Delhi
+- - AtliQ Palace
+  - AtliQ Bay
+  - AtliQ Blu
+  - AtliQ City
+  - AtliQ Grands
+
+- Banglore
+- - AtliQ Palace
+  - AtliQ Bay
+  - AtliQ Blu
+  - AtliQ City
+  - AtliQ Grands
+  - AtliQ Exotica
