@@ -75,8 +75,6 @@ Task:
 
 ## Business Terminology
 
-#### Key Metrics in the Hotel Industry
-
 In the hotel industry, several key metrics are crucial for assessing performance and making informed decisions. Here's a brief explanation of some of these metrics:
 
 - **ADR (Average Daily Rate)**: ADR represents the average price charged for each room per day. It's calculated by dividing total room revenue by the number of rooms sold.
@@ -100,6 +98,19 @@ In the hotel industry, several key metrics are crucial for assessing performance
 - **RevPAR (Revenue per Available Room)**: RevPAR represents the revenue generated per available room, whether or not they are occupied. RevPAR helps hotel measure their revenue-generating performance to accurately price rooms. RevPAR can help hotels measure themselves against other properties or brands. 
 
 These metrics play a vital role in hotel management, aiding in pricing optimization, resource allocation, and enhancing overall guest satisfaction. Understanding and monitoring these metrics are essential for a hotel's success.
+
+## Dataset
+
+Below is an overview of the dataset. It consists of three dimensions (dim) files and two fact files:
+
+| File Name                | Description                |
+|--------------------------|----------------------------|
+| dim_date     | Contain Dates, Week numbers, and Day Types ( Weekday/Weekend ).   |
+| dim_hotels        | Contains Property ID, Property Names, Locations, and Categories of hotels.  |
+| dim_rooms        | Contains various room types: Standard, Elite, Premium, and Presidential.  |
+| fact_bookings       | Contains booking details, including Booking ID, Property ID, Booking Date, Check-in Date, Check-out Date, Number of Guests, Room Category, Booking Platform, Ratings Given, Booking Status, Revenue Generated, and Revenue Realized. |
+| fact_aggregated_bookings       | Contains aggregated property bookings data, including Property ID, Check-in Date, Room Category, Capacity, and Successfully Booked Rooms. |
+
 
 
 
