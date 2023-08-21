@@ -14,6 +14,7 @@ You can watch the presentation video here
 - [Tech Stacks](#tech-stacks)
 - [Business Terminology](#business-terminology)
 - [Dataset](#dataset)
+- [Data Model](#data-model)
 - [Dashboard](#dashboard)
 - [Insights](#insights)
 
@@ -111,6 +112,30 @@ Below is an overview of the dataset. It consists of three dimensions (dim) files
 | fact_bookings       | Contains booking details, including Booking ID, Property ID, Booking Date, Check-in Date, Check-out Date, Number of Guests, Room Category, Booking Platform, Ratings Given, Booking Status, Revenue Generated, and Revenue Realized. |
 | fact_aggregated_bookings       | Contains aggregated property bookings data, including Property ID, Check-in Date, Room Category, Capacity, and Successfully Booked Rooms. |
 
+## Data Model
 
+Data modeling plays a pivotal role and serves as the foundation for generating meaningful reports. The entire framework of visualizations is constructed upon a well-designed data model. Neglecting proper data modeling can have adverse effects on the overall performance of the generated reports.
+
+In the context of this project, we have meticulously followed the Snowflake data modeling method. This approach involves structuring data into normalized forms, resulting in reduced redundancy and improved query performance. This methodology enhances the way we organize and process data, ensuring optimal results for our analysis.
+
+Remember, a robust data model is the cornerstone of effective data analysis and reporting. By employing sound data modeling practices, we can confidently generate insightful visualizations that empower data-driven decision-making.
+
+![Data Model](images/datamodel.png)
+
+## Dashboard
+
+You can watch the presentation video here
+
+![Dashboard](images/dashboard.png)
+
+## Insights
+
+### ADR Remains Stable
+
+Upon analyzing our dataset, it's evident that the Average Daily Rate (ADR) for AtliQ Hotels has remained relatively stable over the given time frame. This stability in pricing indicates a consistent pricing strategy.
+
+Notably, AtliQ Hotels currently do not employ dynamic pricing based on weekdays and weekends. This presents an opportunity to consider adjusting the pricing strategy. Dynamic pricing can help optimize revenue by offering different rates for weekdays and weekends, aligning pricing more closely with demand fluctuations.
+
+This insight suggests that exploring dynamic pricing strategies could be a valuable initiative to consider, potentially leading to increased revenue and better revenue management.
 
 
