@@ -32,13 +32,27 @@ AtliQ Grands own multiple five-star hotels across the following cities.
 |            |          | AtliQ Bay           |
 |            | Business | AtliQ City           |
 |            |          | AtliQ Palace         |
+| Mumbai     | Luxury   | AtliQ Exotica       |
+|            |          | AtliQ Bay           |
+|            |          | AtliQ Blu          |
+|            |          | AtliQ Grands           |
+|            |          | AtliQ Exotica           |
+|            | Business | AtliQ Palace         |
+|            |          | AtliQ Seasons          |
+|            |          | AtliQ City          |
+| Hyderabad  | Luxury   | AtliQ Blu           |
+|            |          | AtliQ Bay           |
+|            |          | AtliQ Exotica         |
+|            |          | AtliQ Grands       |
+|            | Business | Atliq Palace          |
+|            |          | AtliQ City        |
+| Bangalore  | Luxury   | AtliQ Grands        |
+|            |          | AtliQ Bay           |
+|            |          | AtliQ Blu          |
+|            |          | AtliQ Exotica         |
+|            | Business | AtliQ City           |
+|            |          | AtliQ Palace         |
 
-| Mumbai     | Luxury   | Atliq Exotica       |
-|            | Business | Atliq Palace         |
-| Hyderabad  | Luxury   | Atliq Blu           |
-|            | Business | Atliq Bay            |
-| Bangalore  | Luxury   | Atliq Grands        |
-|            | Business | Atliq City           |
 
 
 
