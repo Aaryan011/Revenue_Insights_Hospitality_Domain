@@ -124,7 +124,7 @@ Remember, a robust data model is the cornerstone of effective data analysis and 
 
 ## Dashboard
 
-You can interact with the dashboard [**here**]([https://github.com](https://app.powerbi.com/view?r=eyJrIjoiZmJlOGQwYmQtNGQxMS00MWU4LTlkYzEtNmEyZDk4YmM0OGQyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))
+You can interact with the dashboard [**here**](https://app.powerbi.com/view?r=eyJrIjoiZmJlOGQwYmQtNGQxMS00MWU4LTlkYzEtNmEyZDk4YmM0OGQyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
 ![Dashboard](images/dashboard.png)
